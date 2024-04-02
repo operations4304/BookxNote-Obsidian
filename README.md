@@ -36,6 +36,6 @@
 
 如果你对图片的复制方式不清楚，可以查看这篇文章，[附件管理方式](https://zhuanlan.zhihu.com/p/690376509)，介绍了附加的储存情况。
 
-该Quicker参考了[Obsidian-Excalidraw联动BookxNote Pro](Obsidian-Excalidraw联动BookxNote Pro_哔哩哔哩_bilibili)
+该Quicker参考了[Obsidian-Excalidraw联动BookxNote Pro](https://www.bilibili.com/video/BV1zW4y1Z7ke/?spm_id_from=333.999.0.0&vd_source=c08c205650a4a5e13d87475ab1ab2431)
 
 谢谢观看！
