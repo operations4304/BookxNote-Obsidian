@@ -1,5 +1,9 @@
 # 用Quicker设置Obsidian到BookxNote的跳转、回链动作
 
+知乎文字链接：[用Quicker设置Obsidian到BookxNote的跳转、回链动作](https://zhuanlan.zhihu.com/p/690386301)
+
+哔哩哔哩视频链接：[Obsidian与BookxNote：用Quicker摘录内容，并带上回链](https://www.bilibili.com/video/BV1Ki421k7tZ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c08c205650a4a5e13d87475ab1ab2431)
+
 用Quicker可以帮助我们完成一些繁琐的、需要多个操作步骤的动作。
 
 这篇文章中，我用Quicker帮我完成对BookxNote的复制文字、复制图片、复制回链、复制图片到Obsidian文件夹、将链接按照callout格式复制到Obsidian笔记中，使之点击Obsidian中的链接能自动打开BookxNote，并跳转到笔记的所在位置。
